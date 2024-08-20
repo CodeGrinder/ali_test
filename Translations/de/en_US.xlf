@@ -3,11 +3,11 @@
     <body>
       <trans-unit id="5e6b3b0ae30c9b763d16d1200faa05a4e5d9f058" datatype="html">
         <source>Get the Sunhat Browser Extension</source>
-        <target>Get the Sunhat Browser Extension</target>
+        <target>Get the Sunhat Browser Extension test</target>
       </trans-unit>
       <trans-unit id="16bb90272827b45c1a1cc18660cc968368a5b0ad" datatype="html">
         <source>Login with Passkey</source>
-        <target>Login with Passkey</target>
+        <target>Login with Passkey test</target>
       </trans-unit>
       <trans-unit id="16c9265efce9856bc0b54ae20beda87d07085a2c" datatype="html">
         <source> Install the Sunhat Extension to get the most out of Sunhat. The Sunhat Extension helps you fill out sustainability questionnaires and forms using your company's data from the Sunhat platform. </source>
@@ -1291,7 +1291,6 @@
       </trans-unit>
       <trans-unit id="1a85b0130aabc321fc9076e73e9a1b4c670c4491" datatype="html">
         <source><x id="INTERPOLATION" equiv-text="{{ view().label }}"/></source>
-        <target><x id="INTERPOLATION" equiv-text="{{ view().label }}"/></target>
       </trans-unit>
       <trans-unit id="907136822175606758" datatype="html">
         <source>Questions</source>
@@ -3895,7 +3894,6 @@
       </trans-unit>
       <trans-unit id="66abb23ed9adf4aa03eab3e4b75234d32748e44c" datatype="html">
         <source><x id="INTERPOLATION" equiv-text="&lt;/ng-container&gt; &lt;ng-container data-modal-body&gt; &lt;u"/></source>
-        <target><x id="INTERPOLATION" equiv-text="&lt;/ng-container&gt; &lt;ng-container data-modal-body&gt; &lt;u"/></target>
       </trans-unit>
       <trans-unit id="66db799d67958d4b0765181d072df62e2d1c16f5" datatype="html">
         <source>Issues</source>
@@ -4735,7 +4733,6 @@
       </trans-unit>
       <trans-unit id="4f03b85dcde2b6bbd2870edc7387e0aa87a1b189" datatype="html">
         <source><x id="INTERPOLATION" equiv-text="{{ dimension.name }}"/></source>
-        <target><x id="INTERPOLATION" equiv-text="{{ dimension.name }}"/></target>
       </trans-unit>
       <trans-unit id="4f26c54d5c3edadf92756d7d3ce466dde1f01e2a" datatype="html">
         <source>Undo</source>
@@ -6191,7 +6188,6 @@
       </trans-unit>
       <trans-unit id="8714e7c06421cbdaee266963226d9bc400026b33" datatype="html">
         <source><x id="INTERPOLATION" equiv-text="{{ duplicate.comment }}"/></source>
-        <target><x id="INTERPOLATION" equiv-text="{{ duplicate.comment }}"/></target>
       </trans-unit>
       <trans-unit id="8718048249801659622" datatype="html">
         <source>comment</source>
